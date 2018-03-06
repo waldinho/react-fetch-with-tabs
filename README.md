@@ -1,3 +1,3 @@
 react-fetch-with-tabs
 
--- Look to use charts.js to display raw data.
+-- Look to use charts.js to display data.
